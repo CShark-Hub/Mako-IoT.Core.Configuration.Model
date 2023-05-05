@@ -1,4 +1,5 @@
-# Project readme
+#  Mako-IoT.ConfigurationApi.Model
+Data model for configuration API. See [Configuration API](https://github.com/CShark-Hub/Mako-IoT.Device.Services.ConfigurationApi).
 
 ## How to manually sync fork
 - Clone repository and navigate into folder
