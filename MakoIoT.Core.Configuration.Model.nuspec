@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MakoIoT.Core.Configuration.Model</id>
+    <version>$version$</version>
+    <title>MakoIoT.Core.Configuration.Model</title>
+    <authors>CSHARK</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE.md</license>
+    <releaseNotes>
+    </releaseNotes>
+    <readme>docs\README.md</readme>
+    <developmentDependency>false</developmentDependency>
+    <projectUrl>https://github.com/CShark-Hub/Mako-IoT.Core.Configuration.Model</projectUrl>
+    <repository type="git" url="https://github.com/CShark-Hub/Mako-IoT.Core.Configuration.Model" />
+    <copyright>Copyright (c) CSHARK Sp. z o. o.</copyright>
+    <description>MAKO-IoT configuration API entities</description>
+    <tags>mako-iot configuration api model entities</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+  <files>
+	  <file src="src\MakoIoT.Core.Configuration.Model\bin\Release\net6.0\MakoIoT.Core.Configuration.Model.dll" target="lib\net6.0\MakoIoT.Core.Configuration.Model.dll" />
+	  <file src="src\MakoIoT.Core.Configuration.Model\bin\Release\net6.0\MakoIoT.Core.Configuration.Model.pdb" target="lib\net6.0\MakoIoT.Core.Configuration.Model.pdb" />
+    <file src="README.md" target="docs\" />
+    <file src="LICENSE.md" target="" />
+  </files>
+</package>
